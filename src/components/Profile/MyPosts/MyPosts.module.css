@@ -1,0 +1,9 @@
+content{
+    grid-area: c;
+    background-color: rgb(72, 59, 156);
+}
+
+.content_font{
+    color: whitesmoke;
+    padding: 10px;
+}

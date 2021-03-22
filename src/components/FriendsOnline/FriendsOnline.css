@@ -1,0 +1,10 @@
+.friends {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.friends a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 18px;
+}
